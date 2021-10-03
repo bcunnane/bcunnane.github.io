@@ -1,4 +1,7 @@
-*San Diego State University - Advisor: Professor Usha Sinha*
+*Brandon Cunnane  
+Medical Physics masters student  
+advised by Professor Usha Sinha  
+San Diego State University*
 
 ### Project Links
 1. [Muscle fiber identification from DTI eigenvectors](https://bcunnane.github.io/DTI_fibers/)

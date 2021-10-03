@@ -1,6 +1,6 @@
 *San Diego State University - Advisor: Professor Usha Sinha*
 
-## Projects
+### Project Links
 * [Muscle fiber identification from DTI eigenvectors](https://bcunnane.github.io/DTI_fibers/)
 * [Muscle fiber strain determined from motion tracking via VEPC and Dynamic MRI](https://bcunnane.github.io/fiber_tracking/)
 

@@ -1,4 +1,4 @@
-# Brandon Cunnane - Medical Physics - San Diego State University - Advisor: Professor Usha Sinha
+*Brandon Cunnane - Medical Physics - San Diego State University - Advisor: Professor Usha Sinha*
 
 Stethoscopes, thermometers, and electrocardiographs. These simple tools are essential to modern medical practice but would not exist without research applying technical knowledge to human health. This is why biomedical research inspires me. It offers the chance to develop the scientific knowledge needed for the next breakthrough in diagnosing and healing sick people. Four years as a biomedical engineer at Abbott Laboratories working with another great medical achievement, magnetic resonance imaging (MRI), inspired me to attend graduate school. I am amazed by the highly-detailed internal images MRI provides without requiring radiation dose or incisions. Additionally, I enjoy growing my technical skills working through the math and programming challenges presented by MR image processing and analysis.
 

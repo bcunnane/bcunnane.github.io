@@ -1,8 +1,7 @@
+[CV](Brandon Cunnane CV.pdf)
 *Brandon Cunnane  
 Medical Physics Masters Student  
 San Diego State University*
-
-[CV](Brandon Cunnane CV.pdf)
 
 ### Project Links
 1. [Muscle fiber identification from DTI eigenvectors](https://bcunnane.github.io/DTI_fibers/)

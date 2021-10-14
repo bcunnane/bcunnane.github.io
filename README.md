@@ -11,5 +11,5 @@ Stethoscopes, thermometers, and electrocardiographs. These simple tools are esse
 
 My research is advised by **Professor Usha Sinha** and studies the effects of sarcopenia, or muscle loss with age. This investigation compares the muscle fiber strain in the medial gastrocnemius (MG) muscle of young and old subjects. My project is a collaboration between San Diego State and UC San Diego (UCSD), and data was collected at UCSD’s Radiology Imaging Laboratory in a 1.5T GE scanner with the subject's dominant leg fixed in a foot pedal fixture. This investigation (1) used **diffusion tensor imaging (DTI)** data to determine representative muscle fibers and (2) used **velocity encoded phase contrast (VEPC)** for **dynamic imaging** of these fibers’ motion compared to the force read by the foot pedal.
 
-![Brandon Cunnane photo](Brandon Cunnane profile picture.jpg)
+![Brandon Cunnane photo](Brandon Cunnane profile picture cropped.jpg)
 > *Brandon Cunnane, San Diego State University*

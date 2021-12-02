@@ -5,7 +5,7 @@ San Diego State University*
 
 ### Project Links
 1. [(a) Automatically determining representative muscle fibers from DTI data](https://bcunnane.github.io/DTI_fibers/)  
-[(b) Tracking fiber motion with dynamic VEPC imaging to find their length, strain, and angle while contracting](https://bcunnane.github.io/fiber_tracking/)
+[(b) Tracking and analyzing fiber motion with dynamic VEPC imaging](https://bcunnane.github.io/fiber_tracking/)
 2. [Aligning strain in the DTI eigenvector directions](https://bcunnane.github.io/FAS/)
 3. [Siemens CS 4D FLow for muscle strain analysis](https://bcunnane.github.io/CS_4D_flow/)
 

@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/brandoncunnane/) • [Resume](Brandon-Cunnane-Resume.pdf) • brandon.cunnane@gmail.com  
 
-I recently graduated from San Diego State's medical physics program, where my research focused on developing MRI image processing methods. This work contributed to the non-invasive study of human muscle physiology. I am interested in software development and scientific computing and hope to continue developing impactful software to answer intersting questions. 
+I recently graduated from San Diego State's medical physics program, where my research focused on developing MRI image processing methods. This work contributed to the non-invasive study of human muscle physiology and resulted in two presentations at the annual MRI conference, ISMRM. I am interested in software development and scientific computing and hope to continue developing impactful software to answer intersting questions. 
 
 ----
 

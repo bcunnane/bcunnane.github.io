@@ -1,4 +1,3 @@
-# About
 [Email](brandon.cunnane@gmail.com) • [LinkedIn](https://www.linkedin.com/in/brandoncunnane/) • [Resume](Brandon-Cunnane-Resume.pdf)
 
 I am a recent graduate in medical physics graduate from San Diego State University researching muscles using MRI image processing. I am interested in software programming and investigations using large datasets.

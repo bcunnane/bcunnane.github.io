@@ -7,7 +7,7 @@ I am a recent graduate in medical physics graduate from San Diego State Universi
 ### [Research: Tracking muscle fiber motion in MRI images](https://bcunnane.github.io/muscle-fiber-tracking/)
 - Built MATLAB function to automatically identify fibers from diffusion MRI data
 - Created MATLAB MRI DICOM processing script to analyze muscle fiber contraction
-![Calf Muscle exertion fiber tracking](220311-BC animation.gif)
+![Calf Muscle exertion fiber tracking](220311-BC animation resized.gif)
 
 ----
 

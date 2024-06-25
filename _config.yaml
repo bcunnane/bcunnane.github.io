@@ -1,5 +1,5 @@
 title: Brandon Cunnane
-logo: /assets/img/profile_pic.png
+#logo: /assets/img/profile_pic.png
 description: Python, SQL, Javascript, Matlab
 show_downloads: false
 theme: jekyll-theme-minimal

@@ -1,16 +1,13 @@
 ## Projects
 
-[**Letterboxrs: Webscraping Letterboxd Movie Ratings**](https://bcunnane.github.io/letterboxrs/)
-- SQLite database updated via Python webscraping of LetterBoxd movie ratings
-- Python data analysis and visualization of aggregated movie rating results
+[Letterboxrs: Webscraping Letterboxd Movie Ratings](https://bcunnane.github.io/letterboxrs/)\
+SQLite database updated via Python webscraping of LetterBoxd movie ratings. Python data analysis and visualization of aggregated movie rating results
 
-[**Quantitative analysis of muscle strain via MRI image processing**](https://bcunnane.github.io/fiber-tracking-py/)
-- Developed Python MRI image processing methods to study muscle strain
-- Examined the effects of different ankle angles and exertion levels on strain
+[Quantitative analysis of muscle strain via MRI image processing](https://bcunnane.github.io/fiber-tracking-py/)\
+Developed Python MRI image processing methods to study muscle strain. Examined the effects of different ankle angles and exertion levels on strain
 
-[**Muscle strain aligned in the direction of the muscle fibers**](https://bcunnane.github.io/muscle-fiber-aligned-strain/)
-- Projected strain for each voxel in MRI images in the direction of muscle fibers
-- Compared results for young and old subjects
+[Muscle strain aligned in the direction of the muscle fibers](https://bcunnane.github.io/muscle-fiber-aligned-strain/)\
+Projected strain for each voxel in MRI images in the direction of muscle fibers. Compared results for young and old subjects
 
 
 ## Experience
@@ -24,7 +21,7 @@ Software development of laboratory applications for healthcare clients
 - Translated clients’ scientific processes into application and PowerBI dashboard requirements
 - Collaborated in an Agile software development team utilizing Git, Jira, Confluence
 
-**Physics Graduate Researcher | UCSD Radiology Imaging Lab** (Aug 2020 - Aug 2022)\
+**Physics Graduate Researcher | UCSD Radiology Lab** (Aug 2020 - Aug 2022)\
 Quantitative analysis of muscle strain via MRI image processing
 
 - Designed Python NumPy scripts for processing and integrating MRI datasets (DICOM, CSV)
